@@ -1,7 +1,7 @@
 Hi! I'm @JeremyVyska, CEO of Spare Brained Ideas.
 
 ## Microsoft Dynamics 365 Business Central
-[Spare Brained Ideas}(https://sparebrained.com) is focused on creating lots of great content and tools to help partners and users in the Microsoft Dynamics 365 Business Central (Navision / NAV) space.
+[Spare Brained Ideas](https://sparebrained.com) is focused on creating lots of great content and tools to help partners and users in the Microsoft Dynamics 365 Business Central (Navision / NAV) space.
 
 
 ## Getting Started with Business Central Book
