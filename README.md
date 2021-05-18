@@ -6,7 +6,7 @@ Hi! I'm @JeremyVyska, CEO of Spare Brained Ideas.
 
 ## Getting Started with Business Central Book
 Our first major offering in the space has been released in April, 2021, focused on how everyone can Get Started with Microsoft Dynamics 365 Business Central:
-[Your First 20 Hours with Business Central](https://sparebrained.com/your-first-20-hours-with-microsoft-dynamics-365-business-central-ebook/)
+[Your First 20 Hours with Business Central](https://sparebrained.com/your-first-20-hours-with-microsoft-dynamics-365-business-central/)
 
 - You can find all the files for it here.  [Spare Brained Repo](https://github.com/SpareBrainedIdeas/YourFirst20Hours-SampleData)
 - You can download a free and amazing Chapter 1 to test it out [here](https://gumroad.com/l/YourFirst20Preview).
