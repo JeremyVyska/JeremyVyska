@@ -137,6 +137,9 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🎥 Latest Videos
 <!-- youtube:START -->
+- [Webinar: SBI Licensing](https://www.youtube.com/watch?v=CmEHwaaK9kw)
+
+- [Testing Restreaming with Guests](https://www.youtube.com/watch?v=usIHwRfg5jc)
 <!-- youtube:END -->
 
 ---
