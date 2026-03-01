@@ -21,22 +21,39 @@
 - **[BC Code Intelligence](https://github.com/JeremyVyska/bc-code-intelligence)** — 87+ atomic topics across 24 BC domains, 14 AI specialists
 - **[BC Code Intelligence VS Code](https://github.com/JeremyVyska/bc-code-intelligence-vscode)** — VS Code extension integration
 
-**Conference & Training Materials:**
-- **[BC TechDays 2025](https://github.com/JeremyVyska/BCTechDays2025)** — Conference workshop AL code samples
-- **[Directions EMEA 2025 Workshop](https://github.com/JeremyVyska/DirectionsEmea2025-Workshop)** — Agentic development workshop materials
-
-**Community Tools:**
-- **[Clockify MCP](https://github.com/JeremyVyska/clockify-mcp)** — Time tracking MCP server integration
-- **[Biggening](https://github.com/JeremyVyska/Biggening)** — Educational incremental game built in BC/AL
-
 ### 🤝 Community Leadership
 **Major Contributor & Operator** — [Microsoft AL Guidelines](https://github.com/microsoft/alguidelines)  
 Official Microsoft Business Central community repository defining best practices and coding standards for AL development
 
-### 🪄 Nubimancy Ecosystem  
+<details>
+<summary>📚 <b>Conference & Training Materials</b></summary>
+<br>
+
+- **[BC TechDays 2025](https://github.com/JeremyVyska/BCTechDays2025)** — Conference workshop AL code samples
+- **[Directions EMEA 2025 Workshop](https://github.com/JeremyVyska/DirectionsEmea2025-Workshop)** — Agentic development workshop materials
+
+</details>
+
+<details>
+<summary>🔧 <b>Community Tools</b></summary>
+<br>
+
+- **[Clockify MCP](https://github.com/JeremyVyska/clockify-mcp)** — Time tracking MCP server integration
+- **[Biggening](https://github.com/JeremyVyska/Biggening)** — Educational incremental game built in BC/AL
+
+</details>
+
+<details>
+<summary>🪄 <b>Nubimancy Ecosystem</b></summary>
+<br>
+
 **[@Nubimancy](https://github.com/Nubimancy)** — Fantasy-integrated Business Central education
 - Educational projects and adventure-based learning resources
 - D&D-style technical training materials
+
+</details>
+
+---
 
 ## 📝 Content & Writing
 
@@ -49,16 +66,25 @@ Official Microsoft Business Central community repository defining best practices
 - **Business Central API Reference** — Developer resource guide
 - **Agentic Coding Classes** — Live training series (40+ participants)
 
+---
+
 ## 🛠️ Tech Stack & Languages
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyVyska&theme=default)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyVyska&theme=default)
 
-**Core Technologies:**
+<details>
+<summary><b>Core Technologies</b></summary>
+<br>
+
 - **BC Development:** AL, C/AL, VS Code Extensions, Azure DevOps
 - **Automation:** TypeScript, PowerShell, Python, MCP Servers
 - **AI Integration:** OpenAI API, Anthropic Claude, GitHub Copilot
 - **Platforms:** Microsoft 365, Azure, Business Central SaaS/OnPrem
+
+</details>
+
+---
 
 ## 🎯 Current Focus Areas
 
@@ -66,6 +92,8 @@ Official Microsoft Business Central community repository defining best practices
 - 🏗️ **MCP Infrastructure** — Model Context Protocol server development  
 - 📚 **Developer Education** — Live classes and fantasy-integrated learning
 - 🔧 **Community Tools** — Open source BC development utilities
+
+---
 
 ## 📊 My Evolution
 
@@ -83,6 +111,8 @@ Official Microsoft Business Central community repository defining best practices
 - 📈 **Agentic Coding Classes** — 40+ poll responses, sold out launch across 3 skill levels
 - 🏆 **Microsoft MVP** — Business Central ecosystem recognition since 2022
 
+---
+
 ## 📊 Recent Activity
 
 ### 🔨 Latest GitHub Contributions
@@ -95,27 +125,46 @@ Official Microsoft Business Central community repository defining best practices
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
-<!--START_SECTION:blog-->
-<!--END_SECTION:blog-->
+<!-- blog:START -->
+<!-- blog:END -->
 
 ### 🎥 Latest Videos
-<!--START_SECTION:youtube-->
-<!--END_SECTION:youtube-->
+<!-- youtube:START -->
+<!-- youtube:END -->
+
+---
 
 ## 🌐 Find Me Everywhere
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💼 Professional Networks
-- **LinkedIn:** [@jeremyvyska](https://www.linkedin.com/in/jeremyvyska/) — Industry insights & networking
-- **Twitter/X:** [@jeremyvyska](https://twitter.com/jeremyvyska) — Tech commentary & community
-- **Bluesky:** [@bc.jeremy.vyska.info](https://bsky.app/profile/bc.jeremy.vyska.info) — BC-focused content
+- **LinkedIn:** [@jeremyvyska](https://www.linkedin.com/in/jeremyvyska/)
+- **Twitter/X:** [@jeremyvyska](https://twitter.com/jeremyvyska)
+- **Bluesky:** [@bc.jeremy.vyska.info](https://bsky.app/profile/bc.jeremy.vyska.info)
 
 ### 🌐 Content Hubs
-- **[jeremyvyska.com](https://jeremyvyska.com)** — Professional portfolio & speaking info
-- **[nubimancy.com](https://nubimancy.com)** — Fantasy-integrated technical education
+- **[jeremyvyska.com](https://jeremyvyska.com)** — Professional portfolio
+- **[nubimancy.com](https://nubimancy.com)** — Fantasy-integrated education
 
-### 📺 Learning Platforms  
-- **Agentic Coding Classes** — [Course Passes and Downloads](https://store.jeremyvyska.com)
-- **YouTube:** [@jeremyvyskabc](https://youtube.com/@jeremyvyskabc) — Technical streaming & tutorials
+</td>
+<td width="50%" valign="top">
+
+### 📺 Learning Platforms
+- **[Agentic Coding Classes](https://store.jeremyvyska.com)** — Course passes & downloads
+- **[YouTube: @jeremyvyskabc](https://youtube.com/@jeremyvyskabc)** — Technical streaming
+
+### 📝 Blogs
+- **[jeremyvyska.com/blog](https://jeremyvyska.com/blog)** — Professional insights
+- **[nubimancy.com](https://nubimancy.com)** — Technical education & AI
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🏆 Recent Achievements
 
@@ -124,9 +173,13 @@ Official Microsoft Business Central community repository defining best practices
 - 📈 **Sold-out Class Launch** — 40+ responses to agentic coding curriculum poll
 - 🏅 **Microsoft MVP** — Business Central ecosystem recognition since 2022
 
+---
+
 ## 💡 Philosophy
 
 > *"I went from AI skeptic to someone whose agents write production BC code daily. These tools don't replace developers — they amplify what we can accomplish."*
+
+---
 
 ## 🚀 What's Next?
 
