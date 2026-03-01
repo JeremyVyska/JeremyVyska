@@ -87,6 +87,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/Nubimancy/Knowledge/issues/1#issuecomment-3945698406) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+2. ❗ Opened issue [#4](https://github.com/Nubimancy/Knowledge/issues/4) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+3. ❗ Opened issue [#3](https://github.com/Nubimancy/Knowledge/issues/3) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+4. ❗ Opened issue [#2](https://github.com/Nubimancy/Knowledge/issues/2) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+5. ❗ Opened issue [#1](https://github.com/Nubimancy/Knowledge/issues/1) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
