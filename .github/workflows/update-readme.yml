@@ -1,0 +1,44 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update GitHub activity'
+          MAX_LINES: 8
+
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "blog"
+          feed_list: "https://jeremyvyska.com/blog/rss.xml,https://nubimancy.com/rss.xml"
+          max_post_count: 4
+          commit_message: "Update blog posts"
+          template: "$newline- [$title]($url)$newline"
+
+      - name: Update YouTube Videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "youtube"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCoIlvGcEq9XXl5GGPpcMOEA"
+          max_post_count: 2
+          commit_message: "Update YouTube videos"
+          template: "$newline- [$title]($url)$newline"
