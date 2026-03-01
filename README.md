@@ -6,11 +6,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeremyVyska&theme=default)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyVyska&theme=default)
-
 ## 🏢 My Organizations & Projects
 
 ### 🔧 Personal Development
@@ -67,6 +62,10 @@ Official Microsoft Business Central community repository defining best practices
 - **Agentic Coding Classes** — Live training series (40+ participants)
 
 ---
+
+## 📊 GitHub Activity
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyVyska&theme=default)
 
 ## 🛠️ Tech Stack & Languages
 
