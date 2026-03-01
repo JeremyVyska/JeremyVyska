@@ -29,7 +29,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "blog"
-          feed_list: "https://jeremyvyska.com/blog/rss.xml,https://nubimancy.com/rss.xml"
+          feed_list: "https://jeremyvyska.com/feed,https://nubimancy.com/feed"
           max_post_count: 4
           commit_message: "Update blog posts"
           template: "$newline- [$title]($url)$newline"
