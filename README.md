@@ -116,11 +116,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.7.5](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.5) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-2. 🚀 Published release [Release v1.7.4 - Documentation Generation Enhancements](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.4) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-3. 🗣 Commented on [#1](https://github.com/Nubimancy/Knowledge/issues/1#issuecomment-3945698406) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
-4. ❗ Opened issue [#4](https://github.com/Nubimancy/Knowledge/issues/4) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
-5. ❗ Opened issue [#3](https://github.com/Nubimancy/Knowledge/issues/3) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+1. 🗣 Commented on [#35](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/35#issuecomment-3988909012) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+2. 🚀 Published release [Release v1.7.5](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.5) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+3. 🚀 Published release [Release v1.7.4 - Documentation Generation Enhancements](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.4) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+4. 🗣 Commented on [#1](https://github.com/Nubimancy/Knowledge/issues/1#issuecomment-3945698406) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+5. ❗ Opened issue [#4](https://github.com/Nubimancy/Knowledge/issues/4) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
