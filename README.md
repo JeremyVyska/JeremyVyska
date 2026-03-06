@@ -116,11 +116,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#19](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/19) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-2. ℹ️ Assigned issue [#2](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/2) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-3. ℹ️ Labeled issue [#37](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/37) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-4. ❗ Opened issue [#37](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/37) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-5. ℹ️ Assigned issue [#19](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/19) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+1. 🗣 Commented on [#22](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/22#issuecomment-4004209577) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+2. ❗ Opened issue [#935](https://github.com/HodorNV/ALOps/issues/935) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+3. ❗ Opened issue [#934](https://github.com/HodorNV/ALOps/issues/934) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+4. ℹ️ Assigned issue [#14](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/14) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+5. 🗣 Commented on [#20](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/20#issuecomment-4003303642) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
