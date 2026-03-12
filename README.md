@@ -116,11 +116,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/JeremyVyska/bc-code-intelligence/issues/8#issuecomment-4013762021) in [JeremyVyska/bc-code-intelligence](https://github.com/JeremyVyska/bc-code-intelligence)
-2. 🗣 Commented on [#22](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/22#issuecomment-4004209577) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-3. ❗ Opened issue [#935](https://github.com/HodorNV/ALOps/issues/935) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
-4. ❗ Opened issue [#934](https://github.com/HodorNV/ALOps/issues/934) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
-5. ℹ️ Assigned issue [#14](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/14) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+1. 🗣 Commented on [#934](https://github.com/HodorNV/ALOps/issues/934#issuecomment-4038047890) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+2. 🗣 Commented on [#8](https://github.com/JeremyVyska/bc-code-intelligence/issues/8#issuecomment-4013762021) in [JeremyVyska/bc-code-intelligence](https://github.com/JeremyVyska/bc-code-intelligence)
+3. 🗣 Commented on [#22](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/22#issuecomment-4004209577) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+4. ❗ Opened issue [#935](https://github.com/HodorNV/ALOps/issues/935) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+5. ❗ Opened issue [#934](https://github.com/HodorNV/ALOps/issues/934) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
