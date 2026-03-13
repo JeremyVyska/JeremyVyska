@@ -33,6 +33,7 @@ Official Microsoft Business Central community repository defining best practices
 <summary>🔧 <b>Community Tools</b></summary>
 <br>
 
+- **[Copilot Junk Drawer](https://github.com/JeremyVyska/copilot-junk-drawer)** 🗄️ — Collection of powerful, self-contained dev tools (agentic assessment, time narratives)
 - **[Clockify MCP](https://github.com/JeremyVyska/clockify-mcp)** — Time tracking MCP server integration
 - **[Biggening](https://github.com/JeremyVyska/Biggening)** — Educational incremental game built in BC/AL
 
