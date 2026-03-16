@@ -126,13 +126,13 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 📝 Latest Blog Posts
 <!-- blog:START -->
+- [From Blueprint to Build: Validating the Data Foundation](https://nubimancy.com/2026/03/15/from-blueprint-to-build-validating-the-data-foundation/)
+
 - [Agentic Development Training Spring/Summer 2026](https://jeremyvyska.com/2026/03/01/agentic-development-training-spring-summer-2026/)
 
 - [The Data Foundation Expands…](https://nubimancy.com/2026/03/01/the-data-foundation-expands/)
 
 - [Building at Scale: Long-Running AI Agents for Real Development](https://jeremyvyska.com/2026/02/10/building-at-scale-long-running-ai-agents-for-real-development/)
-
-- [The Pencil Sketch: Building the Destination First 🏗️✨](https://nubimancy.com/2026/02/09/the-pencil-sketch-building-the-destination-first-%f0%9f%8f%97%ef%b8%8f%e2%9c%a8/)
 <!-- blog:END -->
 
 ### 🎥 Latest Videos
