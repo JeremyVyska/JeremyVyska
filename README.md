@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Nubimancy/Knowledge/pull/5#issuecomment-4062807411) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
-2. 🗣 Commented on [#934](https://github.com/HodorNV/ALOps/issues/934#issuecomment-4038047890) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
-3. 🗣 Commented on [#8](https://github.com/JeremyVyska/bc-code-intelligence/issues/8#issuecomment-4013762021) in [JeremyVyska/bc-code-intelligence](https://github.com/JeremyVyska/bc-code-intelligence)
-4. 🗣 Commented on [#22](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/22#issuecomment-4004209577) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-5. ❗ Opened issue [#935](https://github.com/HodorNV/ALOps/issues/935) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+1. ℹ️ Assigned issue [#25](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/25) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+2. ℹ️ Assigned issue [#26](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/26) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+3. 🗣 Commented on [#37](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/37#issuecomment-4080588166) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+4. 🗣 Commented on [#38](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/38#issuecomment-4080586377) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+5. 🗣 Commented on [#5](https://github.com/Nubimancy/Knowledge/pull/5#issuecomment-4062807411) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
