@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#25](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/25) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-2. ℹ️ Assigned issue [#26](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/26) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-3. 🗣 Commented on [#37](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/37#issuecomment-4080588166) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-4. 🗣 Commented on [#38](https://github.com/JeremyVyska/bc-code-intelligence-mcp/issues/38#issuecomment-4080586377) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
-5. 🗣 Commented on [#5](https://github.com/Nubimancy/Knowledge/pull/5#issuecomment-4062807411) in [Nubimancy/Knowledge](https://github.com/Nubimancy/Knowledge)
+1. ℹ️ Assigned issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+2. 🗣 Commented on [#24](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/24#issuecomment-4141987820) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+3. 🗣 Commented on [#24](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/24#issuecomment-4141923035) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+4. 💪 Opened PR [#24](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/24) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+5. ℹ️ Labeled issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
