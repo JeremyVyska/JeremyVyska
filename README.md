@@ -126,13 +126,13 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 📝 Latest Blog Posts
 <!-- blog:START -->
+- [Agentic Development Training: Beginner Recording Now Available — Plus What’s Coming Next](https://jeremyvyska.com/2026/03/30/agentic-development-training-beginner-recording-now-available-plus-whats-coming-next/)
+
 - [From Blueprint to Build: Validating the Data Foundation](https://nubimancy.com/2026/03/15/from-blueprint-to-build-validating-the-data-foundation/)
 
 - [Agentic Development Training Spring/Summer 2026](https://jeremyvyska.com/2026/03/01/agentic-development-training-spring-summer-2026/)
 
 - [The Data Foundation Expands…](https://nubimancy.com/2026/03/01/the-data-foundation-expands/)
-
-- [Building at Scale: Long-Running AI Agents for Real Development](https://jeremyvyska.com/2026/02/10/building-at-scale-long-running-ai-agents-for-real-development/)
 <!-- blog:END -->
 
 ### 🎥 Latest Videos
