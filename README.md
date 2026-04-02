@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-2. ℹ️ Assigned issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-3. 🔒 Closed issue [#14](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/14) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-4. 🎉 Merged PR [#24](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/24) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-5. 🗣 Commented on [#22](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/22#issuecomment-4160542874) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+1. 🎉 Merged PR [#286](https://github.com/microsoft/alguidelines/pull/286) in [microsoft/alguidelines](https://github.com/microsoft/alguidelines)
+2. 💪 Opened PR [#286](https://github.com/microsoft/alguidelines/pull/286) in [microsoft/alguidelines](https://github.com/microsoft/alguidelines)
+3. 🔒 Closed issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+4. ℹ️ Assigned issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+5. 🔒 Closed issue [#14](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/14) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
