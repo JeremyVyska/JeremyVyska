@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#935](https://github.com/HodorNV/ALOps/issues/935#issuecomment-4177515408) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
-2. 🔒 Closed issue [#935](https://github.com/HodorNV/ALOps/issues/935) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
-3. 🎉 Merged PR [#286](https://github.com/microsoft/alguidelines/pull/286) in [microsoft/alguidelines](https://github.com/microsoft/alguidelines)
-4. 💪 Opened PR [#286](https://github.com/microsoft/alguidelines/pull/286) in [microsoft/alguidelines](https://github.com/microsoft/alguidelines)
-5. 🔒 Closed issue [#23](https://github.com/Spare-Brained-Community/SBI-DataBraider/issues/23) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+1. ℹ️ Labeled PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+2. ℹ️ Labeled PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. 💪 Opened PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+4. ℹ️ Labeled issue [#796](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/796) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. 🎉 Merged PR [#795](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/795) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
