@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-2. ℹ️ Labeled PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-3. 💪 Opened PR [#800](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/800) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-4. ℹ️ Labeled issue [#796](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/796) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-5. 🎉 Merged PR [#795](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/795) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+1. ℹ️ Unlabeled issue [#528](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/528) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+2. 🎉 Merged PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. ℹ️ Labeled PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+4. ℹ️ Labeled PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. 💪 Opened PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
