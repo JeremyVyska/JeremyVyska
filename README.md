@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#528](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/528) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-2. 🎉 Merged PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-3. ℹ️ Labeled PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+1. ❗ Opened issue [#3](https://github.com/SShadowS/CentralGauge/issues/3) in [SShadowS/CentralGauge](https://github.com/SShadowS/CentralGauge)
+2. ℹ️ Unlabeled issue [#528](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/528) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+3. 🎉 Merged PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 4. ℹ️ Labeled PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-5. 💪 Opened PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+5. ℹ️ Labeled PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
