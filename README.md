@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/microsoft/BCQuality/pull/15#issuecomment-4505817360) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-2. 🗣 Commented on [#1](https://github.com/JeremyVyska/copilot-junk-drawer/pull/1#issuecomment-4350405467) in [JeremyVyska/copilot-junk-drawer](https://github.com/JeremyVyska/copilot-junk-drawer)
-3. 🗣 Commented on [#11](https://github.com/microsoft/BCQuality/pull/11#issuecomment-4311423158) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-4. ℹ️ Unlabeled issue [#528](https://github.com/StefanMaron/BusinessCentral.AL.Runner/issues/528) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
-5. 🎉 Merged PR [#1008](https://github.com/StefanMaron/BusinessCentral.AL.Runner/pull/1008) in [StefanMaron/BusinessCentral.AL.Runner](https://github.com/StefanMaron/BusinessCentral.AL.Runner)
+1. 🔒 Closed issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+2. ℹ️ Assigned issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+3. ℹ️ Assigned issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+4. 🎉 Merged PR [#17](https://github.com/microsoft/BCQuality/pull/17) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+5. 🗣 Commented on [#17](https://github.com/microsoft/BCQuality/pull/17#issuecomment-4516763094) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
