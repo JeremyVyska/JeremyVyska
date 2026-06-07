@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-2. ℹ️ Assigned issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+1. ❗ Opened issue [#982](https://github.com/HodorNV/ALOps/issues/982) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+2. 🔒 Closed issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 3. ℹ️ Assigned issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-4. 🎉 Merged PR [#17](https://github.com/microsoft/BCQuality/pull/17) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-5. 🗣 Commented on [#17](https://github.com/microsoft/BCQuality/pull/17#issuecomment-4516763094) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+4. ℹ️ Assigned issue [#3](https://github.com/microsoft/BCQuality/issues/3) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+5. 🎉 Merged PR [#17](https://github.com/microsoft/BCQuality/pull/17) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
