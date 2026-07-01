@@ -117,11 +117,11 @@ Official Microsoft Business Central community repository defining best practices
 
 ### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/microsoft/BCQuality/pull/55#issuecomment-4807790676) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-2. 🗣 Commented on [#57](https://github.com/microsoft/BCQuality/pull/57#issuecomment-4808268846) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-3. 🎉 Merged PR [#58](https://github.com/microsoft/BCQuality/pull/58) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-4. 💪 Opened PR [#58](https://github.com/microsoft/BCQuality/pull/58) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-5. ❌ Closed PR [#55](https://github.com/microsoft/BCQuality/pull/55) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+1. ❗ Opened issue [#993](https://github.com/HodorNV/ALOps/issues/993) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+2. ❗ Opened issue [#992](https://github.com/HodorNV/ALOps/issues/992) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+3. 🔒 Closed issue [#982](https://github.com/HodorNV/ALOps/issues/982) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+4. 🗣 Commented on [#982](https://github.com/HodorNV/ALOps/issues/982#issuecomment-4843555999) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+5. 🗣 Commented on [#55](https://github.com/microsoft/BCQuality/pull/55#issuecomment-4807790676) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Blog Posts
