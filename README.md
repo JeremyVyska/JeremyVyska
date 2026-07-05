@@ -1,121 +1,87 @@
-# Hi there! 👋 I'm Jeremy Vyska
+<div align="center">
 
-**Microsoft Business Central MVP** | **Lead Architect @ BrightCom Solutions** | **Speaker & Educator**
+# Jeremy Vyska
 
-🚀 **From Navision veteran to Agentic Development pioneer** — I help BC developers embrace AI tools that actually work.
+### Microsoft MVP · Business Central &nbsp;|&nbsp; Lead Architect @ BrightCom Solutions &nbsp;|&nbsp; Author · Keynote Speaker · Educator
 
----
+**25+ years in the Navision → NAV → Business Central ecosystem — now defining how AI agents write production AL code.**
 
-## 🏢 My Organizations & Projects
+[![Website](https://img.shields.io/badge/jeremyvyska.com-professional-0e75b6)](https://jeremyvyska.com)
+[![Nubimancy](https://img.shields.io/badge/nubimancy.com-education-6f42c1)](https://nubimancy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2)](https://www.linkedin.com/in/jeremyvyska/)
+[![X](https://img.shields.io/badge/X-%40jeremyvyska-000000)](https://twitter.com/jeremyvyska)
+[![Bluesky](https://img.shields.io/badge/Bluesky-follow-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/bc.jeremy.vyska.info)
+[![YouTube](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@jeremyvyskabc)
+[![Training](https://img.shields.io/badge/Agentic%20Coding%20Classes-enroll-2ea44f)](https://store.jeremyvyska.com)
 
-### 🔧 Personal Development
-**[@JeremyVyska](https://github.com/JeremyVyska)** — Core development tools and utilities
+</div>
 
-**BC Code Intelligence Suite:**
-- **[BC Code Intelligence MCP](https://github.com/JeremyVyska/bc-code-intelligence-mcp)** ⭐ 61+ stars — MCP server with 16+ tools and persona-driven workflows
-- **[BC Code Intelligence](https://github.com/JeremyVyska/bc-code-intelligence)** — 87+ atomic topics across 24 BC domains, 14 AI specialists
-- **[BC Code Intelligence VS Code](https://github.com/JeremyVyska/bc-code-intelligence-vscode)** — VS Code extension integration
-
-### 🤝 Community Leadership
-**Major Contributor & Operator** — [Microsoft AL Guidelines](https://github.com/microsoft/alguidelines)  
-Official Microsoft Business Central community repository defining best practices and coding standards for AL development
-
-<details>
-<summary>📚 <b>Conference & Training Materials</b></summary>
-<br>
-
-- **[BC TechDays 2025](https://github.com/JeremyVyska/BCTechDays2025)** — Conference workshop AL code samples
-- **[Directions EMEA 2025 Workshop](https://github.com/JeremyVyska/DirectionsEmea2025-Workshop)** — Agentic development workshop materials
-
-</details>
-
-<details>
-<summary>🔧 <b>Community Tools</b></summary>
-<br>
-
-- **[Copilot Junk Drawer](https://github.com/JeremyVyska/copilot-junk-drawer)** 🗄️ — Collection of powerful, self-contained dev tools (agentic assessment, time narratives)
-- **[Clockify MCP](https://github.com/JeremyVyska/clockify-mcp)** — Time tracking MCP server integration
-- **[Biggening](https://github.com/JeremyVyska/Biggening)** — Educational incremental game built in BC/AL
-
-</details>
-
-<details>
-<summary>🪄 <b>Nubimancy Ecosystem</b></summary>
-<br>
-
-**[@Nubimancy](https://github.com/Nubimancy)** — Fantasy-integrated Business Central education
-- Educational projects and adventure-based learning resources
-- D&D-style technical training materials
-
-</details>
+> *"I went from AI skeptic to someone whose agents write production BC code daily. These tools don't replace developers — they amplify what we can accomplish."*
 
 ---
 
-## 📝 Content & Writing
+## 🎯 Where I Stand
 
-### 📖 Blog Networks
-- **[jeremyvyska.com/blog](https://jeremyvyska.com/blog)** — Professional insights and industry analysis
-- **[nubimancy.com](https://nubimancy.com)** — Fantasy-wrapped technical education and AI development
-
-### 📚 Published Works
-- **"Your First 20 Hours with Microsoft Dynamics 365 Business Central"** — Available on Amazon
-- **Business Central API Reference** — Developer resource guide
-- **Agentic Coding Classes** — Live training series (40+ participants)
+- 🏅 **Microsoft MVP** — Business Central, since 2022
+- 🎤 **Keynote & conference speaker** — Directions EMEA 2025 keynote (*"Agentic Development for Company Lifecycles"*), BC TechDays, Days of Knowledge, DynamicsMinds
+- 📖 **Author** — *[Your First 20 Hours with Microsoft Dynamics 365 Business Central](https://jeremyvyska.com)* (Amazon) · *Business Central API Reference*
+- 🛠️ **Operator & major contributor** — [Microsoft AL Guidelines](https://github.com/microsoft/alguidelines), the official community home of AL best practices and patterns
+- 🤖 **Agentic development educator** — sold-out live training series across three skill levels
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Flagship: BC Code Intelligence Suite
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyVyska&theme=default)
+AI-native tooling that gives coding agents deep Business Central expertise.
 
-## 🛠️ Tech Stack & Languages
+| Project | What it is | |
+|---|---|---|
+| [bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp) | MCP server — 16+ tools with persona-driven BC workflows | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence-mcp?style=social) |
+| [bc-code-intelligence](https://github.com/JeremyVyska/bc-code-intelligence) | Knowledge base — 87+ atomic topics across 24 BC domains, 14 AI specialists | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence?style=social) |
+| [bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode) | VS Code extension integration | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence-vscode?style=social) |
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyVyska&theme=default)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyVyska&theme=default)
+*Featured in MSDynamicsWorld's community innovation coverage.*
 
 <details>
-<summary><b>Core Technologies</b></summary>
+<summary>🔧 <b>More projects & conference materials</b></summary>
 <br>
 
-- **BC Development:** AL, C/AL, VS Code Extensions, Azure DevOps
-- **Automation:** TypeScript, PowerShell, Python, MCP Servers
-- **AI Integration:** OpenAI API, Anthropic Claude, GitHub Copilot
-- **Platforms:** Microsoft 365, Azure, Business Central SaaS/OnPrem
+**Community Tools**
+- [Go-Live Checks Learning](https://github.com/JeremyVyska/GoLiveChecksLearning) ✅ — Go-live readiness validation for migrated data (with transactional rollback), doubling as a 14-chapter AL teaching framework
+- [Copilot Junk Drawer](https://github.com/JeremyVyska/copilot-junk-drawer) 🗄️ — Self-contained dev tools (agentic assessment, time narratives)
+- [Clockify MCP](https://github.com/JeremyVyska/clockify-mcp) — Time tracking MCP server integration
+- [Biggening](https://github.com/JeremyVyska/Biggening) — Educational incremental game built in BC/AL
+
+**Conference & Workshop Code**
+- [BC TechDays 2025](https://github.com/JeremyVyska/BCTechDays2025) — Workshop AL code samples
+- [Directions EMEA 2025 Workshop](https://github.com/JeremyVyska/DirectionsEmea2025-Workshop) — Agentic development workshop materials
+
+**Nubimancy Ecosystem** — [@Nubimancy](https://github.com/Nubimancy)
+- Fantasy-integrated BC education: D&D-style adventures for learning complex systems 🐉
 
 </details>
 
 ---
 
-## 🎯 Current Focus Areas
+## 📊 The Journey
 
-- 🤖 **Agentic Development** — AI-powered coding workflows for BC
-- 🏗️ **MCP Infrastructure** — Model Context Protocol server development  
-- 📚 **Developer Education** — Live classes and fantasy-integrated learning
-- 🔧 **Community Tools** — Open source BC development utilities
-
----
-
-## 📊 My Evolution
-
-```
-📈 25+ years: Navision/NAV/BC ecosystem
-🏢 2021-2024: Spare Brained Ideas (education company)  
-🤖 2024-now: AI skeptic → Agentic development advocate
-🎤 Speaking: From local user groups → international keynotes
+```text
+1999 ────────► Navision / NAV / Business Central — 25+ years and counting
+2021–2024 ───► Spare Brained Ideas — BC education company, book & API reference
+2024 ────────► AI skeptic → agentic development advocate
+Today ───────► Keynotes, sold-out training, and open-source AI tooling for BC
 ```
 
-## 🌟 Recent Highlights
-
-- 🎯 **Directions EMEA 2025 Keynote** — Agentic Development presentation
-- 🚀 **BC Code Intelligence** — Featured in MSDynamicsWorld community innovation article  
-- 📈 **Agentic Coding Classes** — 40+ poll responses, sold out launch across 3 skill levels
-- 🏆 **Microsoft MVP** — Business Central ecosystem recognition since 2022
+**Now & next:**
+- 🤖 Advancing agentic development workflows for the BC ecosystem
+- 🏗️ Growing the MCP server infrastructure and BC Code Intelligence suite
+- 📚 Next-edition book projects and advanced training curricula
+- 🎤 Speaking across the Dynamics conference circuit
 
 ---
 
-## 📊 Recent Activity
+## 🔨 Latest Activity
 
-### 🔨 Latest GitHub Contributions
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#66](https://github.com/microsoft/BCQuality/pull/66) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 2. 💪 Opened PR [#66](https://github.com/microsoft/BCQuality/pull/66) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
@@ -124,7 +90,8 @@ Official Microsoft Business Central community repository defining best practices
 5. 🔒 Closed issue [#982](https://github.com/HodorNV/ALOps/issues/982) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
 <!--END_SECTION:activity-->
 
-### 📝 Latest Blog Posts
+### 📝 Latest Writing
+
 <!-- blog:START -->
 - [You Are the Art – Using Agents to Be a Better Speaker](https://jeremyvyska.com/2026/04/20/you-are-the-art-using-agents-to-be-a-better-speaker/)
 
@@ -136,6 +103,7 @@ Official Microsoft Business Central community repository defining best practices
 <!-- blog:END -->
 
 ### 🎥 Latest Videos
+
 <!-- youtube:START -->
 - [Webinar: SBI Licensing](https://www.youtube.com/watch?v=CmEHwaaK9kw)
 
@@ -144,65 +112,38 @@ Official Microsoft Business Central community repository defining best practices
 
 ---
 
-## 🌐 Find Me Everywhere
+## 🛠️ Toolbox
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**BC Development** — AL, C/AL, VS Code extensions, Azure DevOps · **Automation** — TypeScript, PowerShell, Python, MCP servers · **AI** — Anthropic Claude, OpenAI, GitHub Copilot · **Platforms** — Business Central SaaS/OnPrem, Azure, Microsoft 365
 
-### 💼 Professional Networks
-- **LinkedIn:** [@jeremyvyska](https://www.linkedin.com/in/jeremyvyska/)
-- **Twitter/X:** [@jeremyvyska](https://twitter.com/jeremyvyska)
-- **Bluesky:** [@bc.jeremy.vyska.info](https://bsky.app/profile/bc.jeremy.vyska.info)
+<details>
+<summary>📈 <b>GitHub stats</b></summary>
+<br>
 
-### 🌐 Content Hubs
-- **[jeremyvyska.com](https://jeremyvyska.com)** — Professional portfolio
-- **[nubimancy.com](https://nubimancy.com)** — Fantasy-integrated education
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyVyska&theme=github_dark">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyVyska&theme=default">
+</picture>
 
-</td>
-<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyVyska&theme=github_dark">
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyVyska&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyVyska&theme=github_dark">
+  <img alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyVyska&theme=default">
+</picture>
 
-### 📺 Learning Platforms
-- **[Agentic Coding Classes](https://store.jeremyvyska.com)** — Course passes & downloads
-- **[YouTube: @jeremyvyskabc](https://youtube.com/@jeremyvyskabc)** — Technical streaming
-
-### 📝 Blogs
-- **[jeremyvyska.com/blog](https://jeremyvyska.com/blog)** — Professional insights
-- **[nubimancy.com](https://nubimancy.com)** — Technical education & AI
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 🏆 Recent Achievements
+<div align="center">
 
-- 🎤 **Keynoted Directions EMEA 2025** — "Agentic Development for Company Lifecycles"  
-- 🚀 **BC Code Intelligence MCP** — Featured in MSDynamicsWorld innovation article
-- 📈 **Sold-out Class Launch** — 40+ responses to agentic coding curriculum poll
-- 🏅 **Microsoft MVP** — Business Central ecosystem recognition since 2022
+**📍 This profile is your starting point** — explore the projects, read the blogs, join a class, or just say hi.
 
----
-
-## 💡 Philosophy
-
-> *"I went from AI skeptic to someone whose agents write production BC code daily. These tools don't replace developers — they amplify what we can accomplish."*
-
----
-
-## 🚀 What's Next?
-
-- 🎯 **March-May 2026:** Delivering Agentic Coding class series across 3 skill levels
-- 🎤 **March-May 2026:** Speaking at Days of Knowledge and DynamicsMinds events 
-- 📅 **June 2026:** BC TechDays organizational masterclass presentation
-- 🛠️ **Ongoing:** Building community tools and MCP server ecosystem
-- 📚 **Future:** Next edition book projects and advanced training materials
-
----
-
-**📍 This profile is your starting point** — explore the organizations, check out the blogs, join the classes, or just say hi!
-
-**⚡ Fun Philosophy:** I teach Business Central through D&D-style adventures because the best way to learn complex systems is through epic quests! 🐉
+⚡ I teach Business Central through D&D-style adventures, because the best way to learn complex systems is through epic quests. 🐉
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JeremyVyska&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
