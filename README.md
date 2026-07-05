@@ -30,17 +30,21 @@
 
 ---
 
-## 🚀 Flagship: BC Code Intelligence Suite
+## 🚀 Flagship Projects
 
-AI-native tooling that gives coding agents deep Business Central expertise.
+### 🧭 navapi — *"The Business Central API toolkit that doesn't make you cry"*
+
+[navapi](https://github.com/JeremyVyska/navapi) ![Stars](https://img.shields.io/github/stars/JeremyVyska/navapi?style=social) — a discovery-first toolkit for BC APIs with four faces sharing one brain: a TypeScript core library, an agent-friendly CLI, a VS Code extension with a BC-style query builder, and a 24-tool MCP server — plus native [Data Braider](https://github.com/Spare-Brained-Community/SBI-DataBraider) support. Live on npm and the VS Code Marketplace.
+
+### 🧠 BC Code Intelligence Suite
+
+AI-native tooling that gives coding agents deep Business Central expertise. *Featured in MSDynamicsWorld's community innovation coverage.*
 
 | Project | What it is | |
 |---|---|---|
 | [bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp) | MCP server — 16+ tools with persona-driven BC workflows | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence-mcp?style=social) |
 | [bc-code-intelligence](https://github.com/JeremyVyska/bc-code-intelligence) | Knowledge base — 87+ atomic topics across 24 BC domains, 14 AI specialists | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence?style=social) |
 | [bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode) | VS Code extension integration | ![Stars](https://img.shields.io/github/stars/JeremyVyska/bc-code-intelligence-vscode?style=social) |
-
-*Featured in MSDynamicsWorld's community innovation coverage.*
 
 <details>
 <summary>🔧 <b>More projects & conference materials</b></summary>
@@ -74,7 +78,7 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 
 **Now & next:**
 - 🤖 Advancing agentic development workflows for the BC ecosystem
-- 🏗️ Growing the MCP server infrastructure and BC Code Intelligence suite
+- 🏗️ Growing the MCP ecosystem — navapi and the BC Code Intelligence suite
 - 📚 Next-edition book projects and advanced training curricula
 - 🎤 Speaking across the Dynamics conference circuit
 
