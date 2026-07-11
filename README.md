@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0 — Data Braider + GitHub Copilot](https://github.com/JeremyVyska/navapi/releases/tag/v0.2.0) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-2. 💪 Opened PR [#28](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/28) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
-3. 🚀 Published release [navapi 0.1.0-alpha.1](https://github.com/JeremyVyska/navapi/releases/tag/v0.1.0-alpha.1) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-4. 🎉 Merged PR [#66](https://github.com/microsoft/BCQuality/pull/66) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-5. 💪 Opened PR [#66](https://github.com/microsoft/BCQuality/pull/66) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+1. 🗣 Commented on [#993](https://github.com/HodorNV/ALOps/issues/993#issuecomment-4932552448) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+2. 🔒 Closed issue [#993](https://github.com/HodorNV/ALOps/issues/993) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+3. 🚀 Published release [v0.2.0 — Data Braider + GitHub Copilot](https://github.com/JeremyVyska/navapi/releases/tag/v0.2.0) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+4. 💪 Opened PR [#28](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/28) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
+5. 🚀 Published release [navapi 0.1.0-alpha.1](https://github.com/JeremyVyska/navapi/releases/tag/v0.1.0-alpha.1) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
