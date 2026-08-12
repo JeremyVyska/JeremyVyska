@@ -87,7 +87,7 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#993](https://github.com/HodorNV/ALOps/issues/993#issuecomment-4932552448) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
+1. 🗣 Commented on [#2040](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/issues/2040#issuecomment-5252012007) in [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
 2. 🔒 Closed issue [#993](https://github.com/HodorNV/ALOps/issues/993) in [HodorNV/ALOps](https://github.com/HodorNV/ALOps)
 3. 🚀 Published release [v0.2.0 — Data Braider + GitHub Copilot](https://github.com/JeremyVyska/navapi/releases/tag/v0.2.0) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
 4. 💪 Opened PR [#28](https://github.com/Spare-Brained-Community/SBI-DataBraider/pull/28) in [Spare-Brained-Community/SBI-DataBraider](https://github.com/Spare-Brained-Community/SBI-DataBraider)
