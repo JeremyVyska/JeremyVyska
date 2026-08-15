@@ -97,13 +97,13 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ### 📝 Latest Writing
 
 <!-- blog:START -->
+- [You Are the Art – Using Agents to Be a Better Speaker](https://jeremyvyska.com/2026/04/20/you-are-the-art-using-agents-to-be-a-better-speaker/)
+
+- [Agentic Development Training: Beginner Recording Now Available — Plus What’s Coming Next](https://jeremyvyska.com/2026/03/30/agentic-development-training-beginner-recording-now-available-plus-whats-coming-next/)
+
 - [From Blueprint to Build: Validating the Data Foundation](https://nubimancy.com/2026/03/15/from-blueprint-to-build-validating-the-data-foundation/)
 
-- [The Data Foundation Expands…](https://nubimancy.com/2026/03/01/the-data-foundation-expands/)
-
-- [The Pencil Sketch: Building the Destination First 🏗️✨](https://nubimancy.com/2026/02/09/the-pencil-sketch-building-the-destination-first-%f0%9f%8f%97%ef%b8%8f%e2%9c%a8/)
-
-- [Introducing Nubimancy: Where Fantasy Storytelling Meets Real Business Central Development](https://nubimancy.com/2025/10/22/introducing-nubimancy-where-fantasy-storytelling-meets-real-business-central-development/)
+- [Agentic Development Training Spring/Summer 2026](https://jeremyvyska.com/2026/03/01/agentic-development-training-spring-summer-2026/)
 <!-- blog:END -->
 
 ### 🎥 Latest Videos
