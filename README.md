@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/JeremyVyska/Matcha_wiki/issues/1) in [JeremyVyska/Matcha_wiki](https://github.com/JeremyVyska/Matcha_wiki)
-2. ℹ️ Assigned issue [#1](https://github.com/JeremyVyska/Matcha_wiki/issues/1) in [JeremyVyska/Matcha_wiki](https://github.com/JeremyVyska/Matcha_wiki)
-3. ℹ️ Assigned issue [#1](https://github.com/JeremyVyska/Matcha_wiki/issues/1) in [JeremyVyska/Matcha_wiki](https://github.com/JeremyVyska/Matcha_wiki)
-4. ❗ Opened issue [#1](https://github.com/JeremyVyska/Matcha_wiki/issues/1) in [JeremyVyska/Matcha_wiki](https://github.com/JeremyVyska/Matcha_wiki)
-5. 🗣 Commented on [#2040](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/issues/2040#issuecomment-5252012007) in [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
+1. 🗣 Commented on [#5](https://github.com/JeremyVyska/navapi/issues/5#issuecomment-5416022189) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+2. 🗣 Commented on [#5](https://github.com/JeremyVyska/navapi/issues/5#issuecomment-5415921578) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+3. 🗣 Commented on [#10](https://github.com/JeremyVyska/navapi/pull/10#issuecomment-5414103397) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+4. 🗣 Commented on [#5](https://github.com/JeremyVyska/navapi/issues/5#issuecomment-5412369256) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+5. ℹ️ Labeled issue [#7](https://github.com/JeremyVyska/navapi/issues/7) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
