@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/JeremyVyska/navapi/pull/10#issuecomment-5455357810) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-2. ℹ️ Assigned PR [#10](https://github.com/JeremyVyska/navapi/pull/10) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-3. 🔒 Closed issue [#14](https://github.com/JeremyVyska/navapi/issues/14) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-4. 🗣 Commented on [#10](https://github.com/JeremyVyska/navapi/pull/10#issuecomment-5455255846) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
-5. 🔒 Closed issue [#7](https://github.com/JeremyVyska/navapi/issues/7) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+1. 🗣 Commented on [#25](https://github.com/JeremyVyska/navapi/issues/25#issuecomment-5468429358) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+2. 🗣 Commented on [#2121](https://github.com/microsoft/vsmarketplace/issues/2121#issuecomment-5468319934) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
+3. 🔒 Closed issue [#1](https://github.com/JeremyVyska/navapi/issues/1) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+4. 🔒 Closed issue [#17](https://github.com/JeremyVyska/navapi/issues/17) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+5. 🔒 Closed issue [#24](https://github.com/JeremyVyska/navapi/issues/24) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
