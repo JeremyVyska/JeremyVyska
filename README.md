@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5756141513) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5675731744) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#177](https://github.com/microsoft/BCQuality/pull/177) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-4. ❗ Opened issue [#335438](https://github.com/microsoft/vscode/issues/335438) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#25](https://github.com/JeremyVyska/navapi/issues/25#issuecomment-5468429358) in [JeremyVyska/navapi](https://github.com/JeremyVyska/navapi)
+1. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5792391626) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5756141513) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5675731744) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#177](https://github.com/microsoft/BCQuality/pull/177) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+5. ❗ Opened issue [#335438](https://github.com/microsoft/vscode/issues/335438) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
