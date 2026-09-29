@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5792391626) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5756141513) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5675731744) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#177](https://github.com/microsoft/BCQuality/pull/177) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-5. ❗ Opened issue [#335438](https://github.com/microsoft/vscode/issues/335438) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#177](https://github.com/microsoft/BCQuality/pull/177#issuecomment-5865895538) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
+2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5792391626) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5756141513) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5675731744) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#177](https://github.com/microsoft/BCQuality/pull/177) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
