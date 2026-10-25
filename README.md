@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#177](https://github.com/microsoft/BCQuality/pull/177) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-2. 🗣 Commented on [#177](https://github.com/microsoft/BCQuality/pull/177#issuecomment-5913527448) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-3. 🗣 Commented on [#177](https://github.com/microsoft/BCQuality/pull/177#issuecomment-5865895538) in [microsoft/BCQuality](https://github.com/microsoft/BCQuality)
-4. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5792391626) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-5756141513) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#2](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo/pull/2) in [JeremyVyska/directions-emea-2026-workshop-demo](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo)
+2. 💪 Opened PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo/pull/1) in [JeremyVyska/directions-emea-2026-workshop-demo](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo)
+3. ❌ Closed PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
+4. 🗣 Commented on [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1#issuecomment-6389134027) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
+5. 💪 Opened PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
