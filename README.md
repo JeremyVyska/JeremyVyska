@@ -97,13 +97,13 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ### 📝 Latest Writing
 
 <!-- blog:START -->
+- [Fall 2026 Agentic Development Classes: Copilot Refresh, Claude Code, and BCQuality](https://jeremyvyska.com/2026/10/25/fall-2026-agentic-development-classes/)
+
 - [You Are the Art – Using Agents to Be a Better Speaker](https://jeremyvyska.com/2026/04/20/you-are-the-art-using-agents-to-be-a-better-speaker/)
 
 - [Agentic Development Training: Beginner Recording Now Available — Plus What’s Coming Next](https://jeremyvyska.com/2026/03/30/agentic-development-training-beginner-recording-now-available-plus-whats-coming-next/)
 
 - [From Blueprint to Build: Validating the Data Foundation](https://nubimancy.com/2026/03/15/from-blueprint-to-build-validating-the-data-foundation/)
-
-- [Agentic Development Training Spring/Summer 2026](https://jeremyvyska.com/2026/03/01/agentic-development-training-spring-summer-2026/)
 <!-- blog:END -->
 
 ### 🎥 Latest Videos
