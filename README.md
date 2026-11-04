@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo/pull/2) in [JeremyVyska/directions-emea-2026-workshop-demo](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo)
-2. 💪 Opened PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo/pull/1) in [JeremyVyska/directions-emea-2026-workshop-demo](https://github.com/JeremyVyska/directions-emea-2026-workshop-demo)
-3. ❌ Closed PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
-4. 🗣 Commented on [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1#issuecomment-6389134027) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
-5. 💪 Opened PR [#1](https://github.com/JeremyVyska/directions-emea-2026-workshop/pull/1) in [JeremyVyska/directions-emea-2026-workshop](https://github.com/JeremyVyska/directions-emea-2026-workshop)
+1. 🚀 Published release [Release v1.7.7](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.7) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+2. 🗣 Commented on [#6](https://github.com/JeremyVyska/bc-code-intelligence-vscode/issues/6#issuecomment-6598410656) in [JeremyVyska/bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode)
+3. 🗣 Commented on [#10](https://github.com/JeremyVyska/bc-code-intelligence-vscode/issues/10#issuecomment-6598410345) in [JeremyVyska/bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode)
+4. 🔒 Closed issue [#6](https://github.com/JeremyVyska/bc-code-intelligence-vscode/issues/6) in [JeremyVyska/bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode)
+5. 🔒 Closed issue [#10](https://github.com/JeremyVyska/bc-code-intelligence-vscode/issues/10) in [JeremyVyska/bc-code-intelligence-vscode](https://github.com/JeremyVyska/bc-code-intelligence-vscode)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
