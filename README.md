@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-6790390532) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6790283371) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
-3. 🗣 Commented on [#14011](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14011#issuecomment-6779838596) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
-4. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6779753420) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
-5. 🚀 Published release [Release v1.7.7](https://github.com/JeremyVyska/bc-code-intelligence-mcp/releases/tag/v1.7.7) in [JeremyVyska/bc-code-intelligence-mcp](https://github.com/JeremyVyska/bc-code-intelligence-mcp)
+1. ❗ Opened issue [#14078](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14078) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
+2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-6790390532) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6790283371) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
+4. 🗣 Commented on [#14011](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14011#issuecomment-6779838596) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
+5. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6779753420) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
