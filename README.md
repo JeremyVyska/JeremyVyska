@@ -87,11 +87,11 @@ Today ───────► Keynotes, sold-out training, and open-source AI t
 ## 🔨 Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14078](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14078) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
-2. 🗣 Commented on [#335438](https://github.com/microsoft/vscode/issues/335438#issuecomment-6790390532) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6790283371) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
-4. 🗣 Commented on [#14011](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14011#issuecomment-6779838596) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
-5. 🗣 Commented on [#32](https://github.com/Octo-Studios/nerb/pull/32#issuecomment-6779753420) in [Octo-Studios/nerb](https://github.com/Octo-Studios/nerb)
+1. 🚀 Published release [v2.0.0: retired](https://github.com/JeremyVyska/RWM_FluffiesPlushies/releases/tag/v2.0.0) in [JeremyVyska/RWM_FluffiesPlushies](https://github.com/JeremyVyska/RWM_FluffiesPlushies)
+2. 🚀 Published release [v3.0.0: 1.7 and fluffier than ever](https://github.com/JeremyVyska/RWM_AlbinoFluffies/releases/tag/v3.0.0) in [JeremyVyska/RWM_AlbinoFluffies](https://github.com/JeremyVyska/RWM_AlbinoFluffies)
+3. 🚀 Published release [v3.0.0: 1.7 and fluffier than ever](https://github.com/JeremyVyska/RWM_BigFluffies/releases/tag/v3.0.0) in [JeremyVyska/RWM_BigFluffies](https://github.com/JeremyVyska/RWM_BigFluffies)
+4. 💪 Opened PR [#9](https://github.com/SamuelBucher/A-Dog-Said-Animal-Prosthetics-2/pull/9) in [SamuelBucher/A-Dog-Said-Animal-Prosthetics-2](https://github.com/SamuelBucher/A-Dog-Said-Animal-Prosthetics-2)
+5. ❗ Opened issue [#14078](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/14078) in [FTBTeam/FTB-Modpack-Issues](https://github.com/FTBTeam/FTB-Modpack-Issues)
 <!--END_SECTION:activity-->
 
 ### 📝 Latest Writing
